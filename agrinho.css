@@ -4,23 +4,46 @@
 }
 
 body {
-    background-color:rgb(44, 62, 0);
+    
+    background-image: url(https://www.creativefabrica.com/wp-content/uploads/2022/12/28/Cottage-In-Flower-Field-With-Surrounding-Mountains-4k-54860643-1.png);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center top;
+   background-attachment: fixed;
+
+
 }
 
+.img {
+
+opacity: 10%;
+
+}
+
+
 .cabecalho {
-    background-color: #122600;
-    color: rgb(150, 116, 72);
+    backdrop-filter: blur(5px);
+    background-color: #1c1c1c76;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 15px 0px;
     flex-direction: row;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    
+  
+
 }
 
 .cabecalho-imagem{
-    width: 300PX;
-    flex-direction: row-reverse;
+    width: 150PX;
+
+  
+    
 
 }
 
@@ -29,4 +52,13 @@ body {
     margin: 20px 50px;
     font-size: 24px;
 }
+::-webkit-scrollbar {
+width: 20px;
+background: linear-gradient( #000000, #000000bb) ;
+}
+::-webkit-scrollbar-thumb {
 
+background-color: rgb(29, 29, 255);
+border-radius: 25px;
+border: 2px solid rgba(0, 0, 0, 0.693)   ;
+}
