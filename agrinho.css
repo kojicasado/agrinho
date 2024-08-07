@@ -9,7 +9,7 @@ body {
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center top;
-   background-attachment: fixed;
+    background-attachment: fixed;
 
 
 }
@@ -58,7 +58,7 @@ background: linear-gradient( #000000, #000000bb) ;
 }
 ::-webkit-scrollbar-thumb {
 
-background-color: rgb(29, 29, 255);
+background-color: rgb(175, 235, 65);
 border-radius: 25px;
 border: 2px solid rgba(0, 0, 0, 0.693)   ;
 }
