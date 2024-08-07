@@ -9,6 +9,7 @@ body {
     background-repeat:no-repeat;
     background-size: cover;
     background-color: #000000;
+    image-resolution:initial;
     background-position: center top;
     background-attachment: fixed;
 
