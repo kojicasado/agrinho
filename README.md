@@ -1,1 +1,1 @@
-<a href="https://agrinho-wine.vercel.app/"># site interativo informativo sobre agricultura orgânica<a/>
+<a href="https://agrinho-wine.vercel.app/">site interativo e informativo sobre agricultura orgânica<a/>
